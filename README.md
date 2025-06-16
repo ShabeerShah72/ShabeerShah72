@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shabeer Abbas
 
-🎯 A passionate **Flutter App Developer** and **UI/UX Designer** with 2+ years of hands-on experience building real-world mobile applications using **Flutter**, **Firebase**, **REST APIs**, and **modern UI principles**.
+🎯 A passionate **Flutter App Developer** and **UI/UX Designer** with 1+ years of hands-on experience in MaxRemind Inc. Building real-world mobile applications using **Flutter**, **Firebase**, **REST APIs**, and **modern UI principles**.
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Featured Projects
-- **🛒 Shopping App** – Multi-page app with cart, payment, order tracking
+- **🛒 Shopping App** – Multi-page app with cart, payment, and order tracking
 - **📉 Crypto Price Tracker** – Real-time price & alert system using CoinGecko API
 - **✅ To-Do App** – Task manager with CRUD, priorities & local storage
 - **☁️ Weather App** – Live weather updates using OpenWeatherMap API
