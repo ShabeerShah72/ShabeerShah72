@@ -41,6 +41,6 @@ solutions.
 
 ## 📫 How to Reach Me
 - 📧 Email: shabeershah4777@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/syed-shabeer-abbas-shah-055828326](https://www.linkedin.com/in/syed-shabeer-abbas-shah/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-shabeer-abbas-shah/)  
 - 🌍 Islamabad, Pakistan
 
