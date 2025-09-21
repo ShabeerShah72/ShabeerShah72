@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Shabeer Abbas
 
-Full Stack **Mobile Developer** with 1+ years in **Flutter**. Skilled in building scalable, user-focused 
-applications, with proven expertise in end-to-end development and delivering high-quality 
+Full Stack **Software Developer** with years of experience in **Web & Apps**. Skilled in building scalable, user-focused 
+websites & applications, with proven expertise in end-to-end development and delivering high-quality 
 solutions.  
 
 ---
 
 ## 👨‍💻 What I Do
+- 🌱 Build Websites dashboard for SAAS projects, businesses, and business websites to make business easy
 - 🔧 Build clean and responsive cross-platform mobile apps according to the Standard architecture of the industry
 - 🎨 Design user-centered UI/UX from scratch (Figma, Adobe XD)
 - 🔐 Integrate Firebase Auth, real-time DB, APIs, and push notifications
@@ -15,10 +16,10 @@ solutions.
 ---
 
 ## 🚀 Featured Projects
+- ** Zoho CRM Automation** - Fully automated framework in Zoho CRM that manages deal stages, follow-ups, escalations, and notifications with zero manual intervention
 - ** Shopping App** – E-Commerce app with full functionality including Authentication, cart, payment, order tracking, and Notification
-- ** Chating App** - Fully Functioning Chating App similar to Whatsapp
+- ** Chating App** - Fully Functioning Chating App similar to WhatsApp
 - ** Crypto Price Tracker** – Real-time price & alert system using CoinGecko API
-- ** To-Do App** – Task manager with CRUD, priorities & local storage
 - ** Weather App** – Live weather updates using OpenWeatherMap API
 
 👉 Check out my repositories to explore more!
@@ -26,13 +27,15 @@ solutions.
 ---
 
 ## 🌱 Currently Learning
-- State Management (Riverpod & Bloc)
-- Backend Integration with Node.js, Express & Firebase Cloud Functions
-- Flutter Web & Portfolio Hosting
+- AI/ML and Data Sciences
+- Python and deep learning...
+- Going deep down in agentic AI
 
 ---
 
 ## 🤝 Looking to Collaborate On
+- Saas website projects
+- Agentic AI projects
 - Flutter app projects
 - UI/UX design challenges
 - Startup MVPs & real-world mobile ideas
