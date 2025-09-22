@@ -16,6 +16,9 @@ solutions.
 ---
 
 ## 🚀 Featured Projects
+- ** GlobelTech Solution **  - A modern enterprise-grade website for a global IT company offering SaaS platforms
+- ** Leads Follow-Up Automation ** - A Smart System that ensures no lead is left unattended.
+- ** Customer Data Migrator** - A complete ETL (Extract, Transform, Load) solution designed to import customer data from a CSV file.Validate, clean, and normalize the data store processed data in MySQL
 - ** Zoho CRM Automation** - Fully automated framework in Zoho CRM that manages deal stages, follow-ups, escalations, and notifications with zero manual intervention
 - ** Shopping App** – E-Commerce app with full functionality including Authentication, cart, payment, order tracking, and Notification
 - ** Chating App** - Fully Functioning Chating App similar to WhatsApp
